@@ -337,11 +337,15 @@ If you have any question, feel free to reach out to us in the following ways:
 
 ## Contributors
 
-<a href="https://github.com/clusterpedia-io/clusterpedia/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=clusterpedia-io/clusterpedia" />
-</a>
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-Made with [contrib.rocks](https://contrib.rocks).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 Copyright 2022 the Clusterpedia Authors. All rights reserved.
