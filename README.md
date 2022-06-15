@@ -342,6 +342,13 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://pacoxu.wordpress.com/"><img src="https://avatars.githubusercontent.com/u/2010320?v=4" width="100px;" alt=""/><br /><sub><b>Paco Xu</b></sub></a></td>
+    <td align="center"><a href="https://blog.zsm.io"><img src="https://avatars.githubusercontent.com/u/6565744?v=4" width="100px;" alt=""/><br /><sub><b>Shiming Zhang</b></sub></a></td>
+  </tr>
+</table>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
